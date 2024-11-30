@@ -1,4 +1,4 @@
-# .github
+# 사이트 및 판넬
 
 ---
 [주가 예측 사이트](https://jeus.site/)
