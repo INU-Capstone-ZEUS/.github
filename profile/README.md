@@ -26,4 +26,10 @@
 ## 뉴스 긍정 부정 분석 제공
 
 ![](/image/news1.gif)   
+![](/image/news2.gif)  
+
+
+## 실시간 주가 차트 제공 
+
+![](/image/chart.gif)  
 
