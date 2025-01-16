@@ -5,7 +5,11 @@
 [개발 일지 바로가기](https://inu-capstone-zeus.github.io/)    
 
 <br>
+<br>
 
+> 주제 선정 PPT : https://docs.google.com/presentation/d/1S6TI-imfoY5GsPVSxGZ-KdmiNOcmnZny/edit?usp=drive_link&ouid=109216185127626877008&rtpof=true&sd=true
+
+<br>
 
 > 최종 발표 PPT : https://docs.google.com/presentation/d/1kdIUwlGawxEHpgGq7_qfjipUlcyItEGo/edit?usp=sharing&ouid=109216185127626877008&rtpof=true&sd=true
 
